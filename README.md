@@ -1,3 +1,7 @@
+<div id="badges" align="right">
+     <img src="https://komarev.com/ghpvc/?username=indratech22&style=flat-square&color=blue" alt=""/>
+    </a>
+  </div>
 ### Hi there 👋
 
 <!--
